@@ -1,0 +1,7 @@
+python-telegram-bot
+spleeter
+# Thư viện dùng cho Spleeter
+tensorflow
+numpy
+# Các thư viện khác bạn đã dùng
+# (Ví dụ: nếu bạn đã cài đặt qua pip)
